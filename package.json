@@ -1,0 +1,19 @@
+{
+  "name": "testes-cypress",
+  "version": "1.0.0",
+  "description": "Testes E2E para a Agenda de Contatos usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": ["cypress", "testing", "e2e"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0",
+    "mochawesome": "^7.1.3",
+    "cypress-mochawesome-reporter": "^3.0.0"
+  }
+}
