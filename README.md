@@ -68,4 +68,4 @@ Os relatórios dos testes são gerados na pasta `cypress/relatorio` após cada e
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
 3. Faça commit das suas alterações (`git commit -am 'Adiciona nova feature'`)
 4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Crie um Pull Request 
+5. Crie um Pull Request
